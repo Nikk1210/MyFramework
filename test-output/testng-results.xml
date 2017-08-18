@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26870" started-at="2017-08-17T03:43:54Z" finished-at="2017-08-17T03:44:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26870" started-at="2017-08-17T03:43:54Z" finished-at="2017-08-17T03:44:21Z">
+      <class name="com.demoaut.newtours.MyFramework.ReadKeywordSheet">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.demoaut.newtours.MyFramework.ReadKeywordSheet@adede5]" name="beforeTest" is-config="true" duration-ms="5253" started-at="2017-08-17T09:13:54Z" finished-at="2017-08-17T09:13:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:com.demoaut.newtours.MyFramework.ReadKeywordSheet@adede5]" name="Test" duration-ms="21554" started-at="2017-08-17T09:13:59Z" finished-at="2017-08-17T09:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:com.demoaut.newtours.MyFramework.ReadKeywordSheet@adede5]" name="closeSession" is-config="true" duration-ms="0" started-at="2017-08-17T09:14:21Z" finished-at="2017-08-17T09:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- com.demoaut.newtours.MyFramework.ReadKeywordSheet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
